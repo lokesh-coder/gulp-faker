@@ -17,7 +17,7 @@ var gulp = require('gulp');
 var faker = require('gulp-faker');
 
 gulp.task('default', function () {
-    return gulp.src('src/file.ext')
+    return gulp.src('src/hello.html')
         .pipe(faker())
         .pipe(gulp.dest('dist'));
 });

@@ -1,5 +1,7 @@
 # gulp-faker [![Build Status](https://travis-ci.org/lokesh-coder/gulp-faker.svg?branch=master)](https://travis-ci.org/lokesh-coder/gulp-faker)
 
+[![Join the chat at https://gitter.im/lokesh-coder/gulp-faker](https://badges.gitter.im/lokesh-coder/gulp-faker.svg)](https://gitter.im/lokesh-coder/gulp-faker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Fake random data injection
 
 
